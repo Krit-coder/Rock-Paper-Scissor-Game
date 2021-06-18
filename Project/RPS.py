@@ -8,7 +8,7 @@ def single(name1):
     root = Tk()
 
     # Setting the icon of title bar
-    root.iconbitmap('d:/rps2.ico')
+    root.iconbitmap('https://github.com/Krit-coder/Rock-Paper-Scissor-Game/blob/main/Project/rps2.ico')
 
     # Set title
     root.title("Rock Paper Scissor Game")
@@ -154,7 +154,7 @@ def multi(name1, name2):
     root = Tk()
 
     # Setting the icon of title bar
-    root.iconbitmap('d:/rps2.ico')
+    root.iconbitmap('https://github.com/Krit-coder/Rock-Paper-Scissor-Game/blob/main/Project/rps2.ico')
 
     # Set title
     root.title("Rock Paper Scissor Game")
@@ -335,7 +335,7 @@ def multi(name1, name2):
 root = Tk()
 
 # Setting the icon of title bar
-root.iconbitmap('d:/rps2.ico')
+root.iconbitmap('https://github.com/Krit-coder/Rock-Paper-Scissor-Game/blob/main/Project/rps2.ico')
 
 
 # Set title
